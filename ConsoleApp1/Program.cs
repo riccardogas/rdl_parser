@@ -7,7 +7,7 @@ using System.IO;
 using System.Xml;
 using System.Data;
 
-namespace ConsoleApp1
+namespace rdl_parser
 {
     class Program
     {
